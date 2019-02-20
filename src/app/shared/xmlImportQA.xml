@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CONFIG>
+	<CONTEXT alias="role.provider.storage">
+		<wm_xt_dbrole authLevel="default" creationDate="1463005196602" datasource="iSeriesQA" depth="0" isVersioned="false" lastModifiedDate="1463005214508" name="MyEstes WebService Users" ownerID="administrator" queryUser="SELECT * FROM ESTESRTGY2.qnp230 WHERE qsun = trim(upper('{uid}'))" sortID="0" userID="sysadmin"><relation path="" type="renderer"/><relation path="" type="portlet.pseudo"/><relation path="" type="role.relation"/></wm_xt_dbrole>
+	</CONTEXT></CONFIG>
